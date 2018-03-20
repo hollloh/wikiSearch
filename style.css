@@ -1,0 +1,44 @@
+* {
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-size: 16px;
+  font-weight: 200;
+  font-family: 'Cutive Mono', monospace;
+  padding: 0.125%;
+  margin: 0.125%;
+  border: none;
+  overflow-x: hidden;
+}
+
+
+#srch {
+  border: 1px solid white;
+  margin-bottom: 25px;
+  font-size: 22px;
+}
+
+#submitBtn {
+  cursor: pointer;
+  color: black;
+  background-color: white;
+  margin-bottom: 50px;
+  font-size: 38px;
+}
+
+#rndmBtn {
+  cursor: pointer;
+  color: #00ff00;
+  margin-bottom: 25px;
+  font-size: 22px;
+}
+
+#linkDiv {
+  padding-bottom: 50px;
+}
+
+a {
+  text-decoration-line: none;
+  color: #00ff00;
+  font-size: 22px;
+}
